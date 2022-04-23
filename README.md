@@ -5,6 +5,7 @@ As is a contagious disease caused by a virus, the severe acute respiratory syndr
 
 ## Problem Statement
 The goal of this final project is to investigate the potential patterns of COVID-19. We want to examine the following question:
+
 **Can COVID-19 be well modeled by SARIMA and/or SEIR models?**
 
 ## Conclusion
