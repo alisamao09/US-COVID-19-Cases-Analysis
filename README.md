@@ -5,7 +5,7 @@ As is a contagious disease caused by a virus, the severe acute respiratory syndr
 
 ## Problem Statement
 The goal of this final project is to investigate the potential patterns of COVID-19. We want to examine the following question:
-**Can COVID-19 be well modeled by SARIMA and/or SEIR models?
+**Can COVID-19 be well modeled by SARIMA and/or SEIR models?**
 
 ## Conclusion
 * After our research, we can conclude that both SARIMA and SEIR models can well model COVID-19 daily cases. In our analysis, we use AIC values to select the parameter settings of the SARIMA model and use local and global search to fit our SEIR model. Based on the analysis, the SARMA model is able to achieve a log likelihood of -3672.181 while the SEIR model results in a log likelihood of -3684.733.
